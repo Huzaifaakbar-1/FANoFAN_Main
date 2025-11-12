@@ -1,0 +1,21 @@
+# system
+.DS_Store
+Thumbs.db
+
+# env / secrets
+.env
+*.local
+
+# node / build
+node_modules/
+dist/
+build/
+
+# editors
+.vscode/
+.idea/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

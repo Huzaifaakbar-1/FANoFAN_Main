@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.556" height="47.375" viewBox="0 0 38.556 47.375">
+  <g id="Group_51915" data-name="Group 51915" transform="translate(-877 -8982.743)">
+    <path id="Subtraction_48" data-name="Subtraction 48" d="M-1209.419,115.893h0a.83.83,0,0,1-.412-.116l-13.178-7.609a.828.828,0,0,1-.413-.719V92.222a.827.827,0,0,1,.413-.718l13.178-7.608a.819.819,0,0,1,.412-.111.821.821,0,0,1,.413.111l13.2,7.618a.829.829,0,0,1,.413.719V107.45a.828.828,0,0,1-.413.718l-13.2,7.609A.826.826,0,0,1-1209.419,115.893Zm5.193-18.066-4.367,2.482V113.64l11.546-6.69V93.65l-5.528,3.2v4.73a.826.826,0,0,1-.825.825.827.827,0,0,1-.826-.825v-3.75Zm-17.546-4.167v13.29l11.527,6.69V100.31l-11.527-6.65Zm6.1-4.482-5.281,3.055,11.557,6.65,4.45-2.564-10.725-7.141Zm6.256-3.615-4.663,2.69,10.705,7.15,5.5-3.171-11.547-6.67Z" transform="translate(2105.591 8898.958)" fill="#08558c"/>
+    <path id="Line_73" data-name="Line 73" d="M36.913.552H-.357A.719.719,0,0,1-1-.224.719.719,0,0,1-.357-1h37.27a.719.719,0,0,1,.643.776A.719.719,0,0,1,36.913.552Z" transform="translate(878 9024.539)" fill="#08558c"/>
+    <circle id="Ellipse_2534" data-name="Ellipse 2534" cx="3.104" cy="3.104" r="3.104" transform="translate(877 9021.211)" fill="#08558c"/>
+    <circle id="Ellipse_2535" data-name="Ellipse 2535" cx="3.104" cy="3.104" r="3.104" transform="translate(909.348 9021.211)" fill="#08558c"/>
+    <g id="Ellipse_2536" data-name="Ellipse 2536" transform="translate(890.482 9018.511)" fill="#fff" stroke="#08558c" stroke-width="1.5">
+      <circle cx="5.804" cy="5.804" r="5.804" stroke="none"/>
+      <circle cx="5.804" cy="5.804" r="5.054" fill="none"/>
+    </g>
+    <circle id="Ellipse_2537" data-name="Ellipse 2537" cx="1.935" cy="1.935" r="1.935" transform="translate(894.341 9022.381)" fill="#08558c"/>
+  </g>
+</svg>
